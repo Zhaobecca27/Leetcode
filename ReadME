@@ -1,5 +1,23 @@
+[hack to hire]: Top Uber Leetcode Problems - https://www.hack2hire.com/by-company/content/67bdf4f37d7a8e8082f368aa?company=UBER&type=BLOG
+  Here are the top LeetCode problems frequently asked by Uber:
+  380. Insert Delete GetRandom O(1)
+  97. Interleaving String
+  564. Find the Closest Palindrome  
+  621. Task Scheduler
+  146. LRU Cache
+  269. Alien Dictionary
+  239. Sliding Window Maximum
+  815. Bus Routes
+  57. Insert Interval  
+  680. Valid Palindrome II
+  153. Find Minimum in Rotated Sorted Array
+  230. Kth Smallest Element in a BST
+  977. Squares of a Sorted Array
+  716. Max Stack
+  238. Product of Array Except Self
+
+[地： 面筋]
 977 https://leetcode.cn/problems/squares-of-a-sorted-array/description/ 
   follow up 658 https://leetcode.cn/problems/find-k-closest-elements/description/
 212 https://leetcode.cn/problems/word-search-ii/ 加强版，八个方向都能走，其他都一样。直接用Trie，
   followup是问用Trie的好处，我说的是每个格子作为起点只用dfs一次，比起每个词都来一遍节省了*n时间；他说还有，然后提示了一下，想到还可以剪枝，在没有branch的字母提前结束。
-。
