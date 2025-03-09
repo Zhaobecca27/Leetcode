@@ -21,3 +21,8 @@
   follow up 658 https://leetcode.cn/problems/find-k-closest-elements/description/
 212 https://leetcode.cn/problems/word-search-ii/ 加强版，八个方向都能走，其他都一样。直接用Trie，
   followup是问用Trie的好处，我说的是每个格子作为起点只用dfs一次，比起每个词都来一遍节省了*n时间；他说还有，然后提示了一下，想到还可以剪枝，在没有branch的字母提前结束。
+
+店面：meeting scheduler 那道题，跟这个差不多 Design Meeting Scheduler
+VO: 239 https://leetcode.cn/problems/sliding-window-maximum/description/
+    货币转换的， 原题也在这里Currency Exchange：https://www.hack2hire.com/by-company/content/67895195402dc47b67a14950?company=UBER&type=ALGORITHM 399 https://leetcode.cn/problems/evaluate-division/description/
+SD: Disgn resturant suggestion system
