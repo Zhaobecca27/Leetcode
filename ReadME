@@ -1,3 +1,5 @@
 977 https://leetcode.cn/problems/squares-of-a-sorted-array/description/ 
   follow up 658 https://leetcode.cn/problems/find-k-closest-elements/description/
-212 https://leetcode.cn/problems/word-search-ii/
+212 https://leetcode.cn/problems/word-search-ii/ 加强版，八个方向都能走，其他都一样。直接用Trie，
+  followup是问用Trie的好处，我说的是每个格子作为起点只用dfs一次，比起每个词都来一遍节省了*n时间；他说还有，然后提示了一下，想到还可以剪枝，在没有branch的字母提前结束。
+。
