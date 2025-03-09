@@ -1,4 +1,5 @@
-[hack to hire]: Top Uber Leetcode Problems - https://www.hack2hire.com/by-company/content/67bdf4f37d7a8e8082f368aa?company=UBER&type=BLOG
+[hack to hire]: 
+- Top Uber Leetcode Problems - https://www.hack2hire.com/by-company/content/67bdf4f37d7a8e8082f368aa?company=UBER&type=BLOG
   Here are the top LeetCode problems frequently asked by Uber:
   380. Insert Delete GetRandom O(1)
   97. Interleaving String
@@ -15,6 +16,16 @@
   977. Squares of a Sorted Array
   716. Max Stack
   238. Product of Array Except Self
+
+- Coding Question
+  Currency Exchange
+  CPU Usage Analysis
+  Evaluate String Expression
+  Design Meeting Scheduler
+  Substring Wrapper
+  Next Greater Palindrome
+  Longest Valid Parentheses
+  Find Robots Position
 
 [地： 面筋]
 977 https://leetcode.cn/problems/squares-of-a-sorted-array/description/ 
